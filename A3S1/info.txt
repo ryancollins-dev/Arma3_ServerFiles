@@ -1,0 +1,5 @@
+To use the serverstart.bat you must edit the file to contain your correct file topology, and correct mission name.
+
+Do not alter the basic.cfg unless you know what you are doing.
+
+Edit the config.cfg for your required server parameters. 

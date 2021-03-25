@@ -1,0 +1,1 @@
+To use the serverupdate.cmd you must edit the file with your server steam ID account name and password
